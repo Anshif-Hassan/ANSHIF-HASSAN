@@ -16,11 +16,11 @@ ANSHIF HASSAN
 </p>
 
 <p align="center">
-<a href="https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==(https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==)"><img title="Size" src="https://img.shields.io/badge/Instagram-anshif.mp4-red"></a>
+<a href="https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==(https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==)"><img title="Size" src="https://img.shields.io/badge/Instagram-anshif.mp4-violet"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ANSHIF-HASSAN"><img title="Size" src="https://img.shields.io/badge/Github-anshif.mp4-violet"></a>
+<a href="https://github.com/ANSHIF-HASSAN"><img title="Size" src="https://img.shields.io/badge/Github-anshif.mp4-red"></a>
 </p>
 
 
